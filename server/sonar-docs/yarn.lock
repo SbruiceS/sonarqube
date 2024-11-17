@@ -9930,15 +9930,15 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"gatsby-remark-custom-blocks@npm:2.1.27":
-  version: 2.1.27
-  resolution: "gatsby-remark-custom-blocks@npm:2.1.27"
+"gatsby-remark-custom-blocks@npm:2.10.0":
+  version: 2.10.0
+  resolution: "gatsby-remark-custom-blocks@npm:2.10.0"
   dependencies:
-    "@babel/runtime": ^7.8.7
+    "@babel/runtime": ^7.12.5
     remark-custom-blocks: ^2.5.0
   peerDependencies:
     gatsby: ^2.0.0
-  checksum: 1ad8ef877a87015c1c2751a95c72f2ca25134850f45b210a0e96a5f2d133e52a732d67e5497efd26ec56a806de6842fd8853080b49c54204e7862d70f26186b9
+  checksum: 811edf876031ba6ab27f5f32733b9ce7cc086f9c533daf635118b7869cf08c0506640b4f468250f1e2f44875a7bf162f1105b2d30f9b753b5f183f1d5a2b029d
   languageName: node
   linkType: hard
 
@@ -19398,7 +19398,7 @@ fsevents@~2.1.2:
     gatsby-plugin-react-helmet: 3.1.24
     gatsby-plugin-typescript: 2.2.5
     gatsby-plugin-typography: 2.3.25
-    gatsby-remark-custom-blocks: 2.1.27
+    gatsby-remark-custom-blocks: 2.10.0
     gatsby-source-filesystem: 2.1.57
     gatsby-transformer-remark: 2.6.59
     glob-promise: 4.2.2
