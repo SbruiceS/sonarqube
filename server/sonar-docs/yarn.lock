@@ -9870,15 +9870,15 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-react-helmet@npm:3.1.24":
-  version: 3.1.24
-  resolution: "gatsby-plugin-react-helmet@npm:3.1.24"
+"gatsby-plugin-react-helmet@npm:3.10.0":
+  version: 3.10.0
+  resolution: "gatsby-plugin-react-helmet@npm:3.10.0"
   dependencies:
-    "@babel/runtime": ^7.8.7
+    "@babel/runtime": ^7.12.5
   peerDependencies:
     gatsby: ^2.0.0
-    react-helmet: ^5.1.3
-  checksum: c59eba99ea24a849f65f617f51d88d7947ddb52d8960b13560bbe781dce9c7f218f2992218ef303f38789c3bf0fe4fd1ab92cb9426b0728761b975db4a4c00b4
+    react-helmet: ^5.1.3 || ^6.0.0
+  checksum: 196d311dd5c68078714c6df812bd7e9f3a1960035325ed680359e023ce4cb4f280efafbd7b01e2f4cf3896240dcce6015f9f1aae612013143103209c1a415007
   languageName: node
   linkType: hard
 
@@ -19395,7 +19395,7 @@ fsevents@~2.1.2:
     gatsby: 2.19.49
     gatsby-plugin-layout: 1.1.24
     gatsby-plugin-polyfill-io: 1.1.0
-    gatsby-plugin-react-helmet: 3.1.24
+    gatsby-plugin-react-helmet: 3.10.0
     gatsby-plugin-typescript: 2.2.5
     gatsby-plugin-typography: 2.3.25
     gatsby-remark-custom-blocks: 2.1.27
